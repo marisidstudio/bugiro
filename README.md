@@ -20,7 +20,7 @@
 </head>
 <body>
     <h1>Privacy Policy</h1>
-    <p>Last updated: 26June2024</p>
+    <p>Last updated: December 8, 2024</p>
     <p>Thank you for choosing to play Bugiro! Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile game.</p>
     
     <h2>1. Information We Collect</h2>
